@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://altair:f92kz3kwxheaoZSW@cluster0.dswzz.mongodb.net/test?retryWrites=true&w=majority"
+}
